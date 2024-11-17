@@ -4,21 +4,21 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/c2e/c2ecdc64c3842f7c4611423300a1baa4.jpg?e6d66a8d-5b2f-4ee3-bd4f-9756f8fd5305" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/c2e/c2ecdc64c3842f7c4611423300a1baa4.jpg?74db923d-8bb6-45b1-9b13-250e01d23602" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1259789/">Воспроизведение звука в 1С. Доступно и всерьез. 8.3.14</a></h4>
 > <small>Продолжение статьи https://infostart.ru/public/248770/</small>  
 > <br clear="left">
 >
-> | :star: +18 |  :calendar: 07.07.2020 |  :speech_balloon: 19 |  :eyes: 16375 |
+> | :star: +18 |  :calendar: 07.07.2020 |  :speech_balloon: 19 |  :eyes: 16380 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/75e/75e4d2b346886e3c21cb905db25b9af3.png?7ce73de3-9116-4f5f-9cf2-2642b2e9986f" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/75e/75e4d2b346886e3c21cb905db25b9af3.png?00aa7bc3-b4b1-48f5-a999-6c5d0b3031cd" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1028882/">1C в поле HTML переходит на Web-kit</a></h4>
 > <small>Тестирование браузера web-kit внутри 1С.</small>  
 > <br clear="left">
 >
-> | :star: +7 |  :calendar: 20.02.2020 |  :speech_balloon: 4 |  :eyes: 13740 |
+> | :star: +7 |  :calendar: 20.02.2020 |  :speech_balloon: 4 |  :eyes: 13744 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/1b8/1b871f7af8010c6e7fdc6da6c7fd4951.png?3cdc25bf-5817-47b0-80dc-7f667ae2fa4b" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/1b8/1b871f7af8010c6e7fdc6da6c7fd4951.png?73f139ce-a0aa-4895-a07c-a8b5d52ef36b" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1176839/">Эмуляция COM передачи данных через http сервис</a></h4>
 > <small>Делаем расширение для конвертации 2.0 через http-сервис.</small>  
 > <br clear="left">
