@@ -4,26 +4,26 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/c2e/c2ecdc64c3842f7c4611423300a1baa4.jpg?098bf7fe-01e9-465d-a19e-17c609add5c1" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/c2e/c2ecdc64c3842f7c4611423300a1baa4.jpg?81977d6b-bb62-4e66-a1b8-c07b94a09bbe" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1259789/">Воспроизведение звука в 1С. Доступно и всерьез. 8.3.14</a></h4>
 > <small>Продолжение статьи https://infostart.ru/public/248770/</small>  
 > <br clear="left">
 >
-> | :star: +19 |  :calendar: 07.07.2020 |  :speech_balloon: 20 |  :eyes: 18808 |
+> | :star: +19 |  :calendar: 07.07.2020 |  :speech_balloon: 20 |  :eyes: 18817 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/75e/75e4d2b346886e3c21cb905db25b9af3.png?966b5a36-cc02-459c-8d8f-c25981b02b74" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/75e/75e4d2b346886e3c21cb905db25b9af3.png?7e27f99b-2a40-414f-84ec-3add21a4ac6c" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1028882/">1C в поле HTML переходит на Web-kit</a></h4>
 > <small>Тестирование браузера web-kit внутри 1С.</small>  
 > <br clear="left">
 >
-> | :star: +7 |  :calendar: 20.02.2020 |  :speech_balloon: 4 |  :eyes: 15220 |
+> | :star: +7 |  :calendar: 20.02.2020 |  :speech_balloon: 4 |  :eyes: 15223 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/1b8/1b871f7af8010c6e7fdc6da6c7fd4951.png?f6534917-d2fe-4e81-b444-282f4aa1d532" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/1b8/1b871f7af8010c6e7fdc6da6c7fd4951.png?1085635e-15c9-48ae-9566-8030188ae716" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/1176839/">Эмуляция COM передачи данных через http сервис</a></h4>
 > <small>Делаем расширение для конвертации 2.0 через http-сервис.</small>  
 > <br clear="left">
 >
-> | :star: +35 |  :calendar: 11.02.2020 |  :speech_balloon: 20 |  :eyes: 13572 |
+> | :star: +35 |  :calendar: 11.02.2020 |  :speech_balloon: 20 |  :eyes: 13574 |
 >  |-|-|-|-|  
 </div>
 
